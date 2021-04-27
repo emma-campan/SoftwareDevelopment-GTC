@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTC", "GTC\GTC.csproj", "{DCF83447-A590-4828-8F41-4C5AD9A54624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF83447-A590-4828-8F41-4C5AD9A54624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF83447-A590-4828-8F41-4C5AD9A54624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF83447-A590-4828-8F41-4C5AD9A54624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF83447-A590-4828-8F41-4C5AD9A54624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5B5A6A1-0522-44FC-A9A4-4FF5277F1BE8}
+	EndGlobalSection
+EndGlobal
