@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlvfXS2Xr3xN4chnE9SF/wOjgrH+LY/vJ0IQcFr91FGtAEJCbrZXPVQmY3zSpM6kh0AtoSG+nO8qsTwRz0meWA==",
+  "success": true,
+  "projectFilePath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\SQLRepository\\SQLRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emmac\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}
