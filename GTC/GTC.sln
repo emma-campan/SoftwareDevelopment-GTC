@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTC", "GTC\GTC.csproj", "{DCF83447-A590-4828-8F41-4C5AD9A54624}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain Layer", "Domain Layer", "{97AA64A0-CCA7-4555-96E7-95489552B519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{A55ADAC4-3ECA-4698-8C4A-7D11BB2AAECD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{A55ADAC4-3ECA-4698-8C4A-7D11BB2AAECD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{7FC67622-3165-4C44-8482-30EBF88F8D9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controllers", "Controllers\Controllers.csproj", "{7FC67622-3165-4C44-8482-30EBF88F8D9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{A08F6897-B70D-4A79-A4F5-3841231A8009}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{A08F6897-B70D-4A79-A4F5-3841231A8009}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure Layer", "Infrastructure Layer", "{1CFF2517-75D9-48E2-AA1C-E38C4CD8BDF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLRepository", "SQLRepository\SQLRepository.csproj", "{E61854FF-D3F7-4DF5-93DE-8F80465E0FB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLRepository", "SQLRepository\SQLRepository.csproj", "{E61854FF-D3F7-4DF5-93DE-8F80465E0FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{296B2E4D-EAF6-4726-855F-0ADB8966558E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayerDapper", "DataAccessLayerDapper\DataAccessLayerDapper.csproj", "{81B751B1-A83B-4C1A-8797-18DB90C9D514}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +25,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DCF83447-A590-4828-8F41-4C5AD9A54624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCF83447-A590-4828-8F41-4C5AD9A54624}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCF83447-A590-4828-8F41-4C5AD9A54624}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCF83447-A590-4828-8F41-4C5AD9A54624}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A55ADAC4-3ECA-4698-8C4A-7D11BB2AAECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A55ADAC4-3ECA-4698-8C4A-7D11BB2AAECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A55ADAC4-3ECA-4698-8C4A-7D11BB2AAECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -43,6 +41,14 @@ Global
 		{E61854FF-D3F7-4DF5-93DE-8F80465E0FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E61854FF-D3F7-4DF5-93DE-8F80465E0FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E61854FF-D3F7-4DF5-93DE-8F80465E0FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296B2E4D-EAF6-4726-855F-0ADB8966558E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296B2E4D-EAF6-4726-855F-0ADB8966558E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296B2E4D-EAF6-4726-855F-0ADB8966558E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296B2E4D-EAF6-4726-855F-0ADB8966558E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B751B1-A83B-4C1A-8797-18DB90C9D514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B751B1-A83B-4C1A-8797-18DB90C9D514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B751B1-A83B-4C1A-8797-18DB90C9D514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B751B1-A83B-4C1A-8797-18DB90C9D514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

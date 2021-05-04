@@ -9,6 +9,7 @@
 //------------------------------------------------------------------------------
 
 
+
 namespace GTC.Properties
 {
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

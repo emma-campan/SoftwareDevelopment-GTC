@@ -7,6 +7,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Interface\Interface.csproj" />
     <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\SQLRepository\SQLRepository.csproj" />
   </ItemGroup>
 
 </Project>

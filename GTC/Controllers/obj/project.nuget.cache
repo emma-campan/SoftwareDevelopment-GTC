@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4oyXizhBhx7tLX22ERVbn6iKmwytFjf0IkHOJ4zdmZgvCWztJUTBxnElEaAMHCv4t7jJpgPM47RJfAmL5QFLnQ==",
+  "dgSpecHash": "N4B0ivJ5OTWpR2p3OHeLyIAIRqopymc0lYuvVp+HAnp2n0ItJuz0xGFihRdNoSu5yGl0AV9tZiK/z//GBzGMIQ==",
   "success": true,
   "projectFilePath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Controllers\\Controllers.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\emmac\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
   "logs": []
 }
