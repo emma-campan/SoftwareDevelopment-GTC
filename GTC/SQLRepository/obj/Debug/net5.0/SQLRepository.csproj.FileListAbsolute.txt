@@ -1,5 +1,0 @@
-C:\laragon\www\SoftwareDevelopment-GTC\GTC\SQLRepository\bin\Debug\net5.0\Interface.dll
-C:\laragon\www\SoftwareDevelopment-GTC\GTC\SQLRepository\bin\Debug\net5.0\Models.dll
-C:\laragon\www\SoftwareDevelopment-GTC\GTC\SQLRepository\obj\Debug\net5.0\SQLRepository.GeneratedMSBuildEditorConfig.editorconfig
-C:\laragon\www\SoftwareDevelopment-GTC\GTC\SQLRepository\obj\Debug\net5.0\SQLRepository.AssemblyInfoInputs.cache
-C:\laragon\www\SoftwareDevelopment-GTC\GTC\SQLRepository\obj\Debug\net5.0\SQLRepository.AssemblyInfo.cs

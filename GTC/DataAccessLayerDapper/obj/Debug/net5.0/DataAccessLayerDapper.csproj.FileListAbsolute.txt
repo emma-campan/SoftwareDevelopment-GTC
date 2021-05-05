@@ -1,0 +1,17 @@
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Debug\net5.0\DataAccessLayerDapper.deps.json
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Debug\net5.0\DataAccessLayerDapper.dll
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Debug\net5.0\ref\DataAccessLayerDapper.dll
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Debug\net5.0\DataAccessLayerDapper.pdb
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Debug\net5.0\Common.dll
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Debug\net5.0\Domain.dll
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Debug\net5.0\Common.pdb
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Debug\net5.0\Domain.pdb
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Debug\net5.0\DataAccessLayerDapper.csprojAssemblyReference.cache
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Debug\net5.0\DataAccessLayerDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Debug\net5.0\DataAccessLayerDapper.AssemblyInfoInputs.cache
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Debug\net5.0\DataAccessLayerDapper.AssemblyInfo.cs
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Debug\net5.0\DataAccessLayerDapper.csproj.CoreCompileInputs.cache
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Debug\net5.0\DataAccessLayerDapper.csproj.CopyComplete
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Debug\net5.0\DataAccessLayerDapper.dll
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Debug\net5.0\ref\DataAccessLayerDapper.dll
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Debug\net5.0\DataAccessLayerDapper.pdb

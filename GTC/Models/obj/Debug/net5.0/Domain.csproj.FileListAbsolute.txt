@@ -1,0 +1,11 @@
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\bin\Debug\net5.0\Domain.deps.json
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\bin\Debug\net5.0\Domain.dll
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\bin\Debug\net5.0\ref\Domain.dll
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\bin\Debug\net5.0\Domain.pdb
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\Domain.dll
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\ref\Domain.dll
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\Domain.pdb

@@ -1,20 +1,20 @@
 ﻿using System;
-using System.Runtime.Serialization;
 
-namespace Models
+
+namespace Domain
 {
-    [DataContract]
+    
     public class Address
     {
 
-        [DataMember]
-        public int AddressId { get; set; }
+     
+        //public int AddressId { get; set; }
 
-        [DataMember]
+        
         public string Addresses { get; set; }
 
 
-        [DataMember]
+       
         public int SSN { get; set; }
 
     }

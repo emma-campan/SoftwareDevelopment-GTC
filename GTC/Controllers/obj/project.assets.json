@@ -2,100 +2,51 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "Dapper/2.0.90": {
-        "type": "package",
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "lib/net5.0/Dapper.dll": {}
+          "bin/placeholder/Domain.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Dapper.dll": {}
+          "bin/placeholder/Domain.dll": {}
         }
       },
       "Interface/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Models": "1.0.0"
+          "Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Interface.dll": {}
         },
         "runtime": {
           "bin/placeholder/Interface.dll": {}
-        }
-      },
-      "Models/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Models.dll": {}
-        }
-      },
-      "SQLRepository/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Dapper": "2.0.90",
-          "Interface": "1.0.0",
-          "Models": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/SQLRepository.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SQLRepository.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Dapper/2.0.90": {
-      "sha512": "e4YjOLJptnpwHIbP8HxjaYf7So9lhUC43rvvGMEkH4Q4CiVlm4rOxYDo0HyuHlMQKj0U5Ob/nCMm52TUhTaZQg==",
-      "type": "package",
-      "path": "dapper/2.0.90",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Dapper.png",
-        "dapper.2.0.90.nupkg.sha512",
-        "dapper.nuspec",
-        "lib/net461/Dapper.dll",
-        "lib/net461/Dapper.xml",
-        "lib/net5.0/Dapper.dll",
-        "lib/net5.0/Dapper.xml",
-        "lib/netstandard2.0/Dapper.dll",
-        "lib/netstandard2.0/Dapper.xml"
-      ]
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Models/Domain.csproj",
+      "msbuildProject": "../Models/Domain.csproj"
     },
     "Interface/1.0.0": {
       "type": "project",
       "path": "../Interface/Interface.csproj",
       "msbuildProject": "../Interface/Interface.csproj"
-    },
-    "Models/1.0.0": {
-      "type": "project",
-      "path": "../Models/Models.csproj",
-      "msbuildProject": "../Models/Models.csproj"
-    },
-    "SQLRepository/1.0.0": {
-      "type": "project",
-      "path": "../SQLRepository/SQLRepository.csproj",
-      "msbuildProject": "../SQLRepository/SQLRepository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Interface >= 1.0.0",
-      "Models >= 1.0.0",
-      "SQLRepository >= 1.0.0"
+      "Domain >= 1.0.0",
+      "Interface >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\emmac\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\eca\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -103,15 +54,11 @@
       "projectUniqueName": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Controllers\\Controllers.csproj",
       "projectName": "Controllers",
       "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Controllers\\Controllers.csproj",
-      "packagesPath": "C:\\Users\\emmac\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\eca\\.nuget\\packages\\",
       "outputPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Controllers\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\emmac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\eca\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -128,11 +75,8 @@
             "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Interface\\Interface.csproj": {
               "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Interface\\Interface.csproj"
             },
-            "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Models.csproj": {
-              "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Models.csproj"
-            },
-            "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\SQLRepository\\SQLRepository.csproj": {
-              "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\SQLRepository\\SQLRepository.csproj"
+            "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj": {
+              "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj"
             }
           }
         }

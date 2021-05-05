@@ -1,20 +1,17 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace Models
+namespace Domain
 {
-    [DataContract]
+   
     public class Phone
     {
-
-        [DataMember]
-        public int PhoneId { get; set; }
-
-        [DataMember]
+        
+        //public int PhoneId { get; set; }
+   
         public int PhoneNo { get; set; }
 
 
-        [DataMember]
         public int SSN { get; set; }
 
     }

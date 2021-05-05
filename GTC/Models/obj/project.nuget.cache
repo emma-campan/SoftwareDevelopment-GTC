@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TuVlcdzrcuoYnJo1qhYs5byqh10ZAQkZn9TmQ7TH++kgqzFDW/9EIvi3xeQLHaNoSBFvlexUYhnxdbS94CzNLg==",
+  "dgSpecHash": "SwAnbooWxqqQ6EGpoKpVlItGGUdjbyg0Fa5cpjYWMFv+sKVqqpVnVDYWNqfD/p/MZUfoWFWqDHM+w/hevWxZvA==",
   "success": true,
-  "projectFilePath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Models.csproj",
+  "projectFilePath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
