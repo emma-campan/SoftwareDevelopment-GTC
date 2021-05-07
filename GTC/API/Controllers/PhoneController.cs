@@ -28,6 +28,7 @@ namespace API.Controllers
         {
             var p = await _phoneService.GetAllPhones();
             return Ok(p);
+            
         }
 
         [HttpPost]
@@ -41,10 +42,19 @@ namespace API.Controllers
 
             }
 
-            _phoneService.CreatePhone(phone);
-            //return CreatedAtAction(nameof(GetPhoneBySSN), new { SSN = phone.SSN }, phone);
+            try
+            {               
+                _phoneService.CreatePhone(phone);
 
-            return Ok(phone);
+                return Ok(phone);                
+               
+            }
+            catch(Exception e)
+            {
+                return null;
+            }
+           
+            
         }
     }
 }

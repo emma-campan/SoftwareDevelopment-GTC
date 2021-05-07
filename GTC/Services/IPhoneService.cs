@@ -8,6 +8,6 @@ namespace Services
     public interface IPhoneService
     {
         Task<IEnumerable<Phone>> GetAllPhones();
-        void CreatePhone(Phone phone);
+        Phone CreatePhone(Phone phone);
     }
 }

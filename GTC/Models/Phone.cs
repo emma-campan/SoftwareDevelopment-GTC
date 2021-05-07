@@ -7,7 +7,7 @@ namespace Domain
     public class Phone
     {
         
-        //public int PhoneId { get; set; }
+        public int PhoneId { get; set; }
    
         public int PhoneNo { get; set; }
 

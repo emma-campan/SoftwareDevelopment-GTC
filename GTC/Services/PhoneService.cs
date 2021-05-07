@@ -20,9 +20,9 @@ namespace Services
             return _phoneRepository.GetAllPhonesAsync();
         }
 
-        public void CreatePhone(Phone phone)
+        public Phone CreatePhone(Phone phone)
         {
-            _phoneRepository.CreatePhone(phone);
+           return _phoneRepository.CreatePhone(phone);
         }
     }
 }

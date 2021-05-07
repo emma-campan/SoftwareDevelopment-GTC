@@ -9,6 +9,6 @@ namespace DataAccessLayerDapper
     {
        Task<IEnumerable<Phone>> GetAllPhonesAsync();
 
-        void CreatePhone(Phone phone);
+        Phone CreatePhone(Phone phone);
     }
 }

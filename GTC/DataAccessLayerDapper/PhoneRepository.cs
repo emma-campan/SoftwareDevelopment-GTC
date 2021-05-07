@@ -35,7 +35,7 @@ namespace DataAccessLayerDapper
             }
         }
 
-        public void CreatePhone(Phone phone)
+        public Phone CreatePhone(Phone phone)
         {
             try
             {
@@ -45,9 +45,10 @@ namespace DataAccessLayerDapper
 
 
                     var p = new DynamicParameters();
-                    
+                   
                     p.Add("@PhoneNo", phone.PhoneNo, dbType: DbType.Int64, direction: ParameterDirection.Input);
                     p.Add("@SSN", phone.SSN, dbType: DbType.Int64, direction: ParameterDirection.Input);
+                    p.Add("@PhoneId", phone.PhoneId, dbType: DbType.Int32, direction: ParameterDirection.Output);
                    
 
 
@@ -55,10 +56,18 @@ namespace DataAccessLayerDapper
                    param: p,
                    commandType: CommandType.StoredProcedure);
 
+                    phone.PhoneId = p.Get<Int32>("PhoneId");
+                    
+                    
+                        return phone;
+                 
+                   
                 }
 
-            }catch(Exception ex)
+            }
+            catch (SqlException ex)
             {
+                
                 throw ex;
             }
         }
