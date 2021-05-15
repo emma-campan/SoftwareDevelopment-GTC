@@ -10,7 +10,7 @@ using Services;
 namespace API.Controllers
 {
     [ApiController]
-    [Route("api/v1/[controller]")]
+    [Route("api/[controller]/[action]")]
     public class PhoneController : ControllerBase
     {
 
@@ -51,7 +51,7 @@ namespace API.Controllers
             }
             catch(Exception e)
             {
-                return null;
+                return BadRequest();
             }
            
             

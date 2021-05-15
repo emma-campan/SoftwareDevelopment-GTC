@@ -9,3 +9,4 @@ C:\laragon\www\SoftwareDevelopment-GTC\GTC\Common\obj\Debug\net5.0\Common.csproj
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\Common\obj\Debug\net5.0\Common.dll
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\Common\obj\Debug\net5.0\ref\Common.dll
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\Common\obj\Debug\net5.0\Common.pdb
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache

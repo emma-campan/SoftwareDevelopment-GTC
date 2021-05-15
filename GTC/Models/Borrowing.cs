@@ -8,7 +8,7 @@ namespace Domain
     {
 
       
-        //public int BorrowingId { get; set; }
+        public int BorrowingId { get; set; }
 
        
         public DateTime BorrowDate { get; set; }

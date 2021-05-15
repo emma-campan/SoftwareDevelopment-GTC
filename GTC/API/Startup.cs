@@ -42,6 +42,12 @@ namespace API
             services.AddScoped<IPhoneService, PhoneService>();
             services.AddScoped<IPhoneRepository, PhoneRepository>();
 
+            services.AddScoped<IMemberService, MemberService>();
+            services.AddScoped<IMemberRepository, MemberRepository>();
+
+            services.AddScoped<IBookService, BookService>();
+            services.AddScoped<IBookRepository, BookRepository>();
+
 
         }
 

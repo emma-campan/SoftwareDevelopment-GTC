@@ -1,4 +1,9 @@
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.csprojAssemblyReference.cache
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.AssemblyInfoInputs.cache
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.AssemblyInfo.cs
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.csproj.CoreCompileInputs.cache
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\bin\Debug\net5.0\testhost.dll
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\bin\Debug\net5.0\API.deps.json
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\bin\Debug\net5.0\API.runtimeconfig.json
@@ -123,11 +128,6 @@ C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\bin\Debug\net5.0\Domain.pd
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\bin\Debug\net5.0\Services.pdb
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\bin\Debug\net5.0\Common.pdb
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\bin\Debug\net5.0\DataAccessLayerDapper.pdb
-C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.csprojAssemblyReference.cache
-C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.AssemblyInfoInputs.cache
-C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.AssemblyInfo.cs
-C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.csproj.CoreCompileInputs.cache
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.csproj.CopyComplete
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\PhoneTests.dll
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\PhoneTests\obj\Debug\net5.0\ref\PhoneTests.dll
