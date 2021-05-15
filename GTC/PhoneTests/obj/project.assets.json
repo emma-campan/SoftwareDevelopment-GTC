@@ -105,6 +105,21 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Microsoft.AspNetCore.TestHost/5.0.6": {
+        "type": "package",
+        "dependencies": {
+          "System.IO.Pipelines": "5.0.1"
+        },
+        "compile": {
+          "lib/net5.0/Microsoft.AspNetCore.TestHost.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.TestHost.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.CodeCoverage/16.9.4": {
         "type": "package",
         "compile": {
@@ -1262,6 +1277,15 @@
           "lib/netstandard1.3/System.IO.FileSystem.Primitives.dll": {}
         }
       },
+      "System.IO.Pipelines/5.0.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/System.IO.Pipelines.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.IO.Pipelines.dll": {}
+        }
+      },
       "System.Linq/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -2335,6 +2359,21 @@
         "lib/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.xml",
         "microsoft.aspnetcore.mvc.newtonsoftjson.5.0.5.nupkg.sha512",
         "microsoft.aspnetcore.mvc.newtonsoftjson.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.TestHost/5.0.6": {
+      "sha512": "SN4nZ3uzu5kFuZCiYnqtwIAj4aLnBlrt1DQ4+d9Thn3ku6YgKJ/RBbjInukWZUtrDGbJDRgA7JLG5lWP/Cy/7A==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.testhost/5.0.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net5.0/Microsoft.AspNetCore.TestHost.dll",
+        "lib/net5.0/Microsoft.AspNetCore.TestHost.xml",
+        "microsoft.aspnetcore.testhost.5.0.6.nupkg.sha512",
+        "microsoft.aspnetcore.testhost.nuspec"
       ]
     },
     "Microsoft.CodeCoverage/16.9.4": {
@@ -4892,6 +4931,32 @@
         "system.io.filesystem.primitives.nuspec"
       ]
     },
+    "System.IO.Pipelines/5.0.1": {
+      "sha512": "qEePWsaq9LoEEIqhbGe6D5J8c9IqQOUuTzzV6wn1POlfdLkJliZY3OlB0j0f17uMWlqZYjH7txj+2YbyrIA8Yg==",
+      "type": "package",
+      "path": "system.io.pipelines/5.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.IO.Pipelines.dll",
+        "lib/net461/System.IO.Pipelines.xml",
+        "lib/netcoreapp3.0/System.IO.Pipelines.dll",
+        "lib/netcoreapp3.0/System.IO.Pipelines.xml",
+        "lib/netstandard1.3/System.IO.Pipelines.dll",
+        "lib/netstandard1.3/System.IO.Pipelines.xml",
+        "lib/netstandard2.0/System.IO.Pipelines.dll",
+        "lib/netstandard2.0/System.IO.Pipelines.xml",
+        "ref/netcoreapp2.0/System.IO.Pipelines.dll",
+        "ref/netcoreapp2.0/System.IO.Pipelines.xml",
+        "system.io.pipelines.5.0.1.nupkg.sha512",
+        "system.io.pipelines.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "System.Linq/4.3.0": {
       "sha512": "5DbqIUpsDp0dFftytzuMmc0oeMdQwjcP/EWxsksIz/w1TcFRkZ3yKKz0PqiYFMmEwPSWw+qNVqD7PJ889JzHbw==",
       "type": "package",
@@ -7288,6 +7353,7 @@
       "Domain >= 1.0.0",
       "FakeItEasy >= 7.0.2",
       "Microsoft.AspNet.WebApi.Core >= 5.2.7",
+      "Microsoft.AspNetCore.TestHost >= 5.0.6",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "Services >= 1.0.0",
       "coverlet.collector >= 3.0.3",
@@ -7296,19 +7362,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eca\\.nuget\\packages\\": {}
+    "C:\\Users\\julia\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\PhoneTests.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\PhoneTests.csproj",
       "projectName": "PhoneTests",
-      "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\PhoneTests.csproj",
-      "packagesPath": "C:\\Users\\eca\\.nuget\\packages\\",
-      "outputPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\obj\\",
+      "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\PhoneTests.csproj",
+      "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\eca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7322,14 +7393,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\API\\API.csproj": {
-              "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\API\\API.csproj"
+            "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\API\\API.csproj": {
+              "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\API\\API.csproj"
             },
-            "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj": {
-              "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj"
+            "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj": {
+              "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj"
             },
-            "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Services\\Services.csproj": {
-              "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Services\\Services.csproj"
+            "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Services\\Services.csproj"
             }
           }
         }
@@ -7351,6 +7422,10 @@
           "Microsoft.AspNet.WebApi.Core": {
             "target": "Package",
             "version": "[5.2.7, )"
+          },
+          "Microsoft.AspNetCore.TestHost": {
+            "target": "Package",
+            "version": "[5.0.6, )"
           },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -7388,7 +7463,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   },

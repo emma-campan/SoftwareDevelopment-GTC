@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\DataAccessLayerDapper\\DataAccessLayerDapper.csproj": {}
+    "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\DataAccessLayerDapper\\DataAccessLayerDapper.csproj": {}
   },
   "projects": {
-    "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Common\\Common.csproj": {
+    "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\eca\\.nuget\\packages\\",
-        "outputPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Common\\obj\\",
+        "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\eca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +58,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\DataAccessLayerDapper\\DataAccessLayerDapper.csproj": {
+    "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\DataAccessLayerDapper\\DataAccessLayerDapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\DataAccessLayerDapper\\DataAccessLayerDapper.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\DataAccessLayerDapper\\DataAccessLayerDapper.csproj",
         "projectName": "DataAccessLayerDapper",
-        "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\DataAccessLayerDapper\\DataAccessLayerDapper.csproj",
-        "packagesPath": "C:\\Users\\eca\\.nuget\\packages\\",
-        "outputPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\DataAccessLayerDapper\\obj\\",
+        "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\DataAccessLayerDapper\\DataAccessLayerDapper.csproj",
+        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\DataAccessLayerDapper\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\eca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,11 +90,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Common\\Common.csproj": {
-                "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Common\\Common.csproj"
+              "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Common\\Common.csproj"
               },
-              "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj": {
-                "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj"
+              "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj": {
+                "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj"
               }
             }
           }
@@ -133,21 +141,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj": {
+    "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj",
-        "packagesPath": "C:\\Users\\eca\\.nuget\\packages\\",
-        "outputPath": "C:\\laragon\\www\\SoftwareDevelopment-GTC\\GTC\\Models\\obj\\",
+        "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Models\\Domain.csproj",
+        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\eca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -187,7 +199,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

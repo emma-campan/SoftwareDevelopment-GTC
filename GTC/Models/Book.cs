@@ -35,10 +35,10 @@ namespace Domain
         public int PublishDate { get; set; }
 
        
-        public byte[] Rare { get; set; }
+        public bool Rare { get; set; }
 
        
-        public byte[] IsNeeded { get; set; }
+        public bool IsNeeded { get; set; }
 
         
         public int Available { get; set; }

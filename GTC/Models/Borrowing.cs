@@ -8,7 +8,7 @@ namespace Domain
     {
 
       
-        //public int BorrowingId { get; set; }
+        public int BorrowingId { get; set; }
 
        
         public DateTime BorrowDate { get; set; }
@@ -23,10 +23,16 @@ namespace Domain
        
         public string Remarks { get; set; }
 
-        
+
+        public int SSN { get; set; }
         public string ItemId { get; set; }
 
-       
-        public int SSN { get; set; }
+        public bool Active { get; set; }
+
+        public Member member { get; set; }
+
+        public Book book { get; set; }
+
+
     }
 }
