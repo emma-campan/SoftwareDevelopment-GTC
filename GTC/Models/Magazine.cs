@@ -8,7 +8,7 @@ namespace Domain
     {
 
       
-        //public int MagazineId { get; set; }
+        public int MagazineId { get; set; }
 
         
         public string ItemId { get; set; }

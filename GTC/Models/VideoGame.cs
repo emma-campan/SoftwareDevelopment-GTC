@@ -8,7 +8,7 @@ namespace Domain
     {
 
        
-       // public int VideoGameId { get; set; }
+        public int VideoGameId { get; set; }
 
        
         public string ItemId { get; set; }

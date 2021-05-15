@@ -8,7 +8,7 @@ namespace Domain
     {
 
       
-       // public int LanguageId { get; set; }
+        public int LanguageId { get; set; }
 
        
         public string Languages { get; set; }

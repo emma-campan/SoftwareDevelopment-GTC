@@ -51,7 +51,7 @@ namespace API.Controllers
             }
             catch(Exception e)
             {
-                return null;
+                return BadRequest();
             }
            
             

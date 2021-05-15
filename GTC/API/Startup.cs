@@ -45,6 +45,13 @@ namespace API
             services.AddScoped<IBorrowingService, BorrowingService>();
 
 
+            services.AddScoped<IMemberService, MemberService>();
+            services.AddScoped<IMemberRepository, MemberRepository>();
+
+            services.AddScoped<IBookService, BookService>();
+            services.AddScoped<IBookRepository, BookRepository>();
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
