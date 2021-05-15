@@ -27,6 +27,6 @@ namespace Domain
         public string Password { get; set; }
 
        
-        public byte[] IsStaff { get; set; }
+        public bool IsStaff { get; set; }
     }
 }

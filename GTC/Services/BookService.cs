@@ -25,9 +25,5 @@ namespace Services
             return _bookRepository.GetBookByName(name);
         }
 
-        public Task<IEnumerable<Book>> GetBookIsRare()
-        {
-            return _bookRepository.GetBookByIsRare();
-        }
     }
 }

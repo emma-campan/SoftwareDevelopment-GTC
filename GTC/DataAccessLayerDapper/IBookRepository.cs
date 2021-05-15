@@ -12,6 +12,5 @@ namespace DataAccessLayerDapper
 
         Task<IEnumerable<Book>> GetBookByName(string name);
 
-        Task<IEnumerable<Book>> GetBookByIsRare();
     }
 }

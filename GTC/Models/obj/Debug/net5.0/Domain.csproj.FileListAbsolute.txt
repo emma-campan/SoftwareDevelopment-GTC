@@ -9,3 +9,4 @@ C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\Domain.csproj
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\Domain.dll
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\ref\Domain.dll
 C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\Domain.pdb
+C:\laragon\www\SoftwareDevelopment-GTC\GTC\Models\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache

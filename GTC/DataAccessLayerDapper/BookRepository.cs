@@ -55,31 +55,7 @@ namespace DataAccessLayerDapper
             }
         }
 
-        public  async Task<IEnumerable<Book>>  GetBookByIsRare()
-        {
-            using (IDbConnection dbConnection = new SqlConnection(Global.ConnectionString))
-            {
-                dbConnection.Open();
-                //var parameters = new DynamicParameters();
-                //parameters.Add("@IsRare", isRare);
-
-                var result = dbConnection.QueryAsync<Book>("dbo.BringAllRareItems", 
-                    //param: parameters,
-                    commandType: CommandType.StoredProcedure);
-
-
-                //string query = @"SELECT * FROM Item i
-	               //             LEFT JOIN Book b
-	               //             ON i.ItemId=b.ItemId
-                //                WHERE i.Rare=1";
-
-
-
-                //return await dbConnection.QueryAsync<Book>(query);
-
-                return await result;
-            }
-        }
+     
 
     }
 }
