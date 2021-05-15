@@ -18,7 +18,7 @@ namespace BookTests
             var fakeBooks = A.CollectionOfDummy<Book>(count).AsEnumerable();
             // var fakePhone = A.Dummy<Phone>();
             var service = A.Fake<IBookService>();
-            string name = "Emma";
+            string name = "testing";
             A.CallTo(() => service.GetBookByName(name)).Returns(Task.FromResult(fakeBooks));
             var controller = new BookController(service);
 
@@ -41,8 +41,8 @@ namespace BookTests
             int count = 1000;
             var fakeBooks = A.CollectionOfDummy<Book>(count).AsEnumerable();
             var service = A.Fake<IBookService>();
-            string firstName = "Emma";
-            string lastName = "Emma";
+            string firstName = "Keisha";
+            string lastName = "Palmer";
             A.CallTo(() => service.GetBookByAuthor(firstName, lastName)).Returns(Task.FromResult(fakeBooks));
             var controller = new BookController(service);
 

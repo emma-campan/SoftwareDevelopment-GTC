@@ -18,8 +18,8 @@ namespace MemberTests
             var fakeMembers = A.CollectionOfDummy<Member>(count).AsEnumerable();
            // var fakePhone = A.Dummy<Phone>();
             var service = A.Fake<IMemberService>();
-            string firstName = "Emma";
-            string lastName = "Emma";
+            string firstName = "Jim";
+            string lastName = "West";
             A.CallTo(() => service.GetMembersByName(firstName, lastName)).Returns(Task.FromResult(fakeMembers));
             var controller = new MemberController(service);
 
