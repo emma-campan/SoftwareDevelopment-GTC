@@ -12,8 +12,8 @@ namespace Services
         protected readonly IBorrowingRepository _borrowingRepository;
 
         public BorrowingService(IBorrowingRepository borrowingRepository)
-        {
-            _borrowingRepository = borrowingRepository;
+        {   //testing change _borrowingRepository
+            borrowingRepository = borrowingRepository;
         }
         public Task<IEnumerable<Borrowing>> GetBorrowingBySSN(int SSN)
         {
