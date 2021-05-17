@@ -56,7 +56,7 @@ namespace PhoneTests
             A.CallTo(() => dataStore.CreateBorrowing(fakeBorrowing));
             var controller = new BorrowingController(dataStore);
 
-            //Act
+            //Act TESTING
             var actionResult =  controller.CreateBorrowing(fakeBorrowing);
 
             //Assert
