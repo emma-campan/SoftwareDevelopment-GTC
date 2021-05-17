@@ -21,9 +21,9 @@ jobs:
       uses: NuGet/setup-nuget@v1.0.5
       
     - name: Restore NuGet packages
-      run: nuget restore GTC.sln
+      run: nuget restore GTC.MVC.sln
       
     - name: Build Solution
-      run: msbuild GTC.sln
+      run: msbuild GTC.MVC.sln
       
 
