@@ -94,3 +94,5 @@ C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\API\obj\Debug\net5.0
 C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\API\obj\Debug\net5.0\API.dll
 C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\API\bin\Debug\net5.0\Microsoft.AspNetCore.TestHost.dll
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\API\bin\Debug\net5.0\System.IO.Pipelines.dll

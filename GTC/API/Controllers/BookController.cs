@@ -40,13 +40,6 @@ namespace API.Controllers
 
         }
 
-        [HttpGet]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        public async Task<IActionResult> GetBookIsRare()
-        {
-            var p = await _BookService.GetBookIsRare();
-            return Ok(p);
-
-        }
+      
     }
 }

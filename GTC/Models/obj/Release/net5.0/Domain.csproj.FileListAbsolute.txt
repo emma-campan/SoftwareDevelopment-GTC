@@ -1,0 +1,12 @@
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\bin\Release\net5.0\Domain.deps.json
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\bin\Release\net5.0\Domain.dll
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\bin\Release\net5.0\ref\Domain.dll
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\bin\Release\net5.0\Domain.pdb
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\obj\Release\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\obj\Release\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\obj\Release\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\obj\Release\net5.0\Domain.AssemblyInfo.cs
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\obj\Release\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\obj\Release\net5.0\Domain.dll
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\obj\Release\net5.0\ref\Domain.dll
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\Models\obj\Release\net5.0\Domain.pdb

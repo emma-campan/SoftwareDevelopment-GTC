@@ -1,0 +1,17 @@
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Release\net5.0\DataAccessLayerDapper.deps.json
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Release\net5.0\DataAccessLayerDapper.dll
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Release\net5.0\ref\DataAccessLayerDapper.dll
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Release\net5.0\DataAccessLayerDapper.pdb
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Release\net5.0\Common.dll
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Release\net5.0\Domain.dll
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Release\net5.0\Common.pdb
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\bin\Release\net5.0\Domain.pdb
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Release\net5.0\DataAccessLayerDapper.csprojAssemblyReference.cache
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Release\net5.0\DataAccessLayerDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Release\net5.0\DataAccessLayerDapper.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Release\net5.0\DataAccessLayerDapper.AssemblyInfo.cs
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Release\net5.0\DataAccessLayerDapper.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Release\net5.0\DataAccessLayerDapper.csproj.CopyComplete
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Release\net5.0\DataAccessLayerDapper.dll
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Release\net5.0\ref\DataAccessLayerDapper.dll
+C:\Users\julia\Documents\GitHub\SoftwareDevelopment-GTC\GTC\DataAccessLayerDapper\obj\Release\net5.0\DataAccessLayerDapper.pdb
