@@ -17,7 +17,8 @@ jobs:
         with:
           dotnet-version: ${{ matrix.dotnet-version }}
      
-      
+      - name: Install dependencies
+        run: dotnet restore
       - name: Build
         run: dotnet build ./GTC/GTC.sln --configuration Release --no-restore
       - name: Test
