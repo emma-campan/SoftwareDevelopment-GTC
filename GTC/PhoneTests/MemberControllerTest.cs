@@ -7,7 +7,7 @@ using Domain;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 
-namespace PhoneTests
+namespace Tests
 {
     public class MemberControllerTests
     {

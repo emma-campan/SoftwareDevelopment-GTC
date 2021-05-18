@@ -13,7 +13,7 @@ using Xunit;
 using Microsoft.AspNetCore.TestHost;
 using Microsoft.AspNetCore.Hosting;
 
-namespace PhoneTests
+namespace Tests
 {
    
    public class BorrowingControllerTests

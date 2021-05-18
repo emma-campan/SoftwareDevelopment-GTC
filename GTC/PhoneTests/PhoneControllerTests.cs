@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.Web.Http;
 using System.Net;
 
-namespace PhoneTests
+namespace Tests
 {
     public class PhoneControllerTests
     {

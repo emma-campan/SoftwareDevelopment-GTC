@@ -2116,6 +2116,7 @@
           "Common": "1.0.0",
           "DataAccessLayerDapper": "1.0.0",
           "Domain": "1.0.0",
+          "Microsoft.AspNetCore.TestHost": "5.0.6",
           "Services": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3"
         },
@@ -7368,9 +7369,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\PhoneTests.csproj",
-      "projectName": "PhoneTests",
-      "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\PhoneTests.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\Tests.csproj",
+      "projectName": "Tests",
+      "projectPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\Tests.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\obj\\",
       "projectStyle": "PackageReference",

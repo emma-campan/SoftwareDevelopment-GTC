@@ -22,7 +22,7 @@ namespace DataAccessLayerDapper
                 {
                     dbConnection.Open();
 
-                    string query = @"SELECT * FROM Phone";
+                    string query = @"SELECT TOP 50 * FROM dbo.Phone ";
 
 
                     return await dbConnection.QueryAsync<Phone>(query);
