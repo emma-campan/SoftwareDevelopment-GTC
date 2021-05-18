@@ -22,5 +22,5 @@ jobs:
       - name: Build
         run: dotnet build ./GTC/GTC.sln --configuration Release --no-restore
       - name: Test
-        run: dotnet test --no-restore --verbosity normal --no-restore
+        run: dotnet test ./GTC/GTC.sln --no-restore --verbosity normal --no-restore
 
