@@ -17,7 +17,7 @@ jobs:
         with:
           dotnet-version: ${{ matrix.dotnet-version }}
       - name: Install dependencies
-        run: NuGet restore
+        run: dotnet restore
       - name: Clean
         run: dotnet clean ./GTC/GTC.sln --configuration Release && dotnet nuget locals all --clear
       - name: Build
