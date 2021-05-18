@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AJEz14GWQB5CPm4OQ951gmTVjBspw5Hr+GS98wy3FmvSzbyEgaOFK6rQpm8Y+zfB6YjRUIsG/NxBpSPNfOL/ug==",
+  "dgSpecHash": "TdqB6NUma450wzquta9MV0vde83NJ17FCIz0A4Bh3HnxwkAvPOdDXCPj4rxo4aAFFCLOBA9Ckhp3lWC/twZoZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\PhoneTests.csproj",
+  "projectFilePath": "C:\\Users\\julia\\Documents\\GitHub\\SoftwareDevelopment-GTC\\GTC\\PhoneTests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julia\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512",
